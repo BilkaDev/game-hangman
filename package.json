@@ -1,0 +1,25 @@
+{
+  "name": "game-hangman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.12",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1"
+  },
+  "dependencies": {
+    "@types/express-serve-static-core": "^4.17.24",
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "npm": "^7.21.1"
+  },
+  "description": ""
+}
